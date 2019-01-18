@@ -1,0 +1,22 @@
+h5 {
+	color: black;
+}
+
+.mb-0 {color: black;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 200%;
+}
+
+.row {
+	padding-left: 125px;
+}
+
+.knopka{
+	color:white;
+	background: #b5bdc8;
+    background: linear-gradient(to top, white 0%, #828c95 36%, #358c9d 100%);
+}
